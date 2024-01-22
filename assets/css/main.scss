@@ -8,3 +8,15 @@
   max-width: 100%;
   max-height: 320px;
 }
+
+// Portrait Phones
+@media screen and (max-width: 766px) and (orientation: portrait) {
+  html {
+    font-size: 20px;
+  }
+
+  .flip {
+    max-width: 100%;
+    max-height: 320px;
+  }
+}
