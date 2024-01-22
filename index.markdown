@@ -18,6 +18,8 @@ Mark runs the ex-Handspring email list. But it's been quiet enought that we deci
 
 The Alumni Slack is open to anyone who had an @handspring.com email address. It's that simple. 
 
+To get invited, contact dwfrank@gmail.com or mark@dadgar.com and one of them will invite you.
+
 ## Code of Conduct
 
 By participating in this community, you are agreeing to this [Code of Conduct](/conduct). Why do we need a code of conduct? Because it's the internet.
