@@ -14,6 +14,12 @@ Davis Frank and Mark Dadgar had lunch after that and dug deeper. They (we) talke
 
 Mark runs the ex-Handspring email list. But it's been quiet enought that we decided to experiment with a Slack. And here we are. Welcome!
 
+## This Slack is Free
+
+...as in beer. This means the functionality is limited. 
+
+The biggest limitation is that Slack keeps only the past 90 days of history. The recommendation is to treat this as emphemeral. Any longer-term history should be kept elsewhere. If we have a desire for something more permanent, talk to the admins and we will figure out what works for the group.
+
 ## Membership
 
 The Alumni Slack is open to anyone who had an @handspring.com email address. It's that simple. 
